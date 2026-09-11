@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class N9 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Введите натуральное число: ");
+        int n;
+        n = scanner.nextInt();
